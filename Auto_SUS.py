@@ -45,7 +45,7 @@ class BaseDeDados:
     def localizacao_hospital(self):
         # Obter a geolocalização do hospital
         print(">_Obtendo a localização do hospital mais próximo...")
-        print("Aguarde um instante...")
+        print(">_Aguarde um instante...")
 
 
 if __name__ == "__main__":
